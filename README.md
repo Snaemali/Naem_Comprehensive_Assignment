@@ -24,7 +24,7 @@ Program 6 : File Name: pom.xml Steps Creation Maven Project and run all programs
 
 Step 4: Add Dependencies to pom.xml Step 5: Write Programs You can now add your Java programs in the src/main/java/com/example directory. Step 6: Compile and Run Your Project with Maven To compile your project, run the following Maven command: mvn compile Step 7: Clean and Package Your Project To clean the project and remove previously compiled files, run: mvn clean To package your project into a JAR file, run: mvn package This will create a target directory with a my-maven-project-1.0-SNAPSHOT.jar file (name might vary depending on your artifactId and version). Step 8: Run the JAR File You can run the packaged JAR file using the following command: java -jar target/my-maven-project-1.0-SNAPSHOT.jar Step 9: Running Tests (Optional) If you have unit tests in the src/test/java directory, you can run them with: mvn test This will run all test classes using JUnit or another testing framework specified in your dependencies. We can implement any Java programs in the src/main/java directory and manage your project with Maven.
 
-Program 7 : Path : 
+Program 7 : Path : https://github.com/Snaemali/Naem_Comprehensive_Assignment/tree/main/all_Assignments
 
 Create a branch in GitHub and write all the programs in that branch and push the code into the same branch. Share the GitHub details to evaluate.
 
